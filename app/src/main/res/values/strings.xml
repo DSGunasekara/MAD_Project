@@ -25,4 +25,57 @@
     <string name="creating">Creating...</string>
     <string name="update">Update</string>
     <string name="cancel">Cancel</string>
+    <string name="mango">mango          Rs.100</string>
+    <string name="blueburry">blueburry          Rs.100</string>
+    <string name="avocado">avocado         Rs.100</string>
+    <string name="grape">grape          Rs.100</string>
+    <string name="apple">apple         Rs.100</string>
+    <string name="watermelon">watermelon         Rs.100</string>
+
+    <string name="duration">4.9   -   20 mins</string>
+    <string name="drink_name">Mango Smoothie </string>
+    <string name="description">Sweet ripe mangos need little help in the smoothie department. We blended ours with a little lowfat milk and yogurt for tang, sort of like a mango lassi</string>
+    <string name="nutrition">Nutrition Quantity </string>
+    <string name="cover_image">cover_image</string>
+
+    <string name="watermelon_qut">200ml, 1x Rs100.00</string>
+    <string name="watermelon_list">watermelon</string>
+
+    <string name="delete">delete</string>
+    //for login
+
+    //for register customer
+    <string name="action_register_short">Register</string>
+    <string name="user_name">Name</string>
+    <string name="user_number">Mobile</string>
+    <string name="as_a_shop">As shop</string>
+    <string name="already_account">Already have an account? Login</string>
+
+    //for register shop
+    <string name="action_register_short_shop">Register</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="shop_number">Shop Mobile</string>
+    <string name="shop_location">Shop Location</string>
+    <string name="as_a_user">As user</string>
+
+    //for create smoothie
+    <string name="create">Create</string>
+    <string name="list">List</string>
+    <string name="offers">Offers</string>
+    <string name="food_name">Food Name</string>
+    <string name="price">Price Rs</string>
+    <string name="nutrition_quantity">Nutrition Quantity</string>
+    <string name="main_ingredients">Main Ingredients</string>
+    <string name="upload_image">Upload Images</string>
+    <string name="place_oder">Place Order</string>
+
+    //for create offer
+    <string name="offer_name">Offer Name</string>
+    <string name="offer_description">Offer Description</string>
+    <string name="available_time">Available Time </string>
+    <string name="discount_description">Discounted Price </string>
+    <string name="place_offer">Place Offer</string>
+    <string name="createdescription">Description</string>
+
 </resources>
